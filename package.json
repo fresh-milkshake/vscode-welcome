@@ -3,7 +3,7 @@
   "displayName": "welcome-page",
   "description": "A welcome page extension so simple, you'll wonder if it does anything at all.",
   "publisher": "fresh-milkshake",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "icon": "assets/welcome.png",
   "repository": {
     "type": "git",
