@@ -1,4 +1,4 @@
-![Welcome Page](https://raw.githubusercontent.com/fresh-milkshake/welcome-page/main/assets/welcome.png)
+![Welcome Page](https://github.com/fresh-milkshake/vscode-welcome/blob/main/assets/welcome.png?raw=true)
 
 A welcome page extension so simple, you'll wonder if it does anything at all.
 
@@ -53,4 +53,4 @@ VS Code version 1.99.0 or higher
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/fresh-milkshake/welcome-page/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/fresh-milkshake/vscode-welcome/blob/main/LICENSE) file for details.

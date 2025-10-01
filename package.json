@@ -5,6 +5,10 @@
   "publisher": "fresh-milkshake",
   "version": "0.0.1",
   "icon": "assets/welcome.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fresh-milkshake/welcome-page"
+  },
   "engines": {
     "vscode": "^1.99.0"
   },
