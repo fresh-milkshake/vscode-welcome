@@ -1,4 +1,4 @@
-![Welcome Page](https://raw.githubusercontent.com/fresh-milkshake/welcome-page/main/assets/welcome.png)
+![Welcome Page](https://raw.githubusercontent.com/fresh-milkshake/welcome-page/main/assets/welcome.png?raw=true)
 
 A welcome page extension so simple, you'll wonder if it does anything at all.
 
